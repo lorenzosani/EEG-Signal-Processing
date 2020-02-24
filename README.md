@@ -1,4 +1,4 @@
-# EEG-Signal-Processing
+# EEG Signal Processing
 Processing code to:
 - process EEG signal
 - display raw data
